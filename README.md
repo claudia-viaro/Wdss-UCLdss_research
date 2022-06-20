@@ -1,4 +1,5 @@
 # Summer research scheme with WDSS
+----------------
 
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? <br />
 
@@ -10,6 +11,8 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
  - Learn a new programming language like Python, R or Julia
  - Improve existing skills and extend your knowledge with regard to statistical models and machine learning
  - Work closely with experienced data scientists, graduates and PhD students
+----------------------
+
 
 ## Types of projects
 You can find here a list of the proposed projects, feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences. <br />
