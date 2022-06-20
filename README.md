@@ -11,7 +11,7 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
  - Learn a new programming language like Python, R or Julia
  - Improve existing skills and extend your knowledge with regard to statistical models and machine learning
  - Work closely with experienced data scientists, graduates and PhD students
-----------------------
+
 
 
 ## Types of projects
