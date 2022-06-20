@@ -1,5 +1,5 @@
 # Summer research scheme with WDSS
-----------------
+
 
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? <br />
 
