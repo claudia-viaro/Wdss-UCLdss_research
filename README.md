@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Summer%20research%20scheme%20with%20WDSS%20render&fontSize=40) <br />
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Summer%20research%20scheme%20with%20WDSS&fontSize=40) <br />
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? <br />
 
  [Apply to WDSS Summer research scheme](.io/wdss-research-project.html) <br />
