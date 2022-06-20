@@ -14,19 +14,6 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
 ## Types of projects
 You can find here a list of the proposed projects, feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences. <br />
 
-<div class="panel panel-gitlab-purple">
-**Heading**
-{: .panel-heading}
-<div class="panel-body">
-
-Text in markdown.
-
-</div>
-</div>
-
-My text in an purple box.
-{: .alert .alert-gitlab-purple}
-
 ### 1) Hidden markov models
 A Markov chain is a model that tells us something about the probabilities of sequences of random variables, states, each of which can take on values from some set. These sets can be words, or tags, or symbols representing anything, like the weather. A Markov chain makes a very strong assumption that if we want to predict the future in the sequence, all that matters is the current state. The states before the current state have no impact on the future except via the current state. It’s as if to predict tomorrow’s weather you could examine today’s weather but you weren’t allowed to look at yesterday’s weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. For example we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. We call the tags hidden because they are not observed. A hidden Markov model (HMM) allows us to talk about both observed events Hidden Markov model (like words that we see in the input) and hidden events (like part-of-speech tags) that we think of as causal factors in our probabilistic model. <br />
 
@@ -105,7 +92,7 @@ Finding new ways to repurpose or combine existing drugs has proved to be a power
 ML algorithms have significantly advanced drug discovery and have been used to develop various models for predicting chemical, biological and physical characteristics of compounds in drugs. ML algorithms can be incorporated in all steps of the process of drug discovery: to find a new use of drugs, to predict drug-protein interactions, optimise bioactivity of molecules, etc. <br />
 
 Here some preliminary literature
-- [Unlocking drug discovery through machine learning](ttps://towardsdatascience.com/unlocking-drug-discovery-through-machine-learning-part-1-8b2a64333e07)
+- [Unlocking drug discovery through machine learning](https://towardsdatascience.com/unlocking-drug-discovery-through-machine-learning-part-1-8b2a64333e07)
 
 ### 9) Bayesian methods in sport statistics
 Bayesian methods are becoming increasingly popular in sports analytics. Identified advantages of the Bayesian approach include the ability to model complex problems, obtain probabilistic estimates and predictions that account for uncertainty, combine information sources and update learning as new data become available. The volume and variety of data produced in sports activities over recent years and the availability of software packages for Bayesian computation have contributed significantly to this growth. <br />
