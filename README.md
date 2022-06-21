@@ -14,12 +14,13 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
 ## Target
 The scheme is open to any university student interested in getting their hands dirty with cleaning dataset, producing graphics, learning some statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies as data science skills are very valuable tools to master in many work areas. <br />
 
-The scheme is run by students for students, it intends to be an informal way to conduct  a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event with WDSS and the scheme's participants to chat about the projects, results, challenges and beer.
+The scheme is run by students for students, it intends to be an informal way to conduct  a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!)
+ and the scheme's participants to chat about the projects, results, challenges and beer.
 
 ## What to expect
-As one of WDSS's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
+As one of Wdss&UCLdss's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
 
-- run virtually (some of us may be on campus and will be happy to meet you if you are around)
+- run virtually
 - the projects are done in small teams, unless you wish otherwise. 
 - weekly meeting with a supervisor, it is a chance to seek guidance and suggestions, catch up with things, show your work and share your thoughts
 - produce a final report (with code to reproduce results) which will be published on the WDSS blog
