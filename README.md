@@ -1,6 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Summer%20research%20scheme%20Warwick-UCL%20WDSS&fontSize=30) <br />
-
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90&textBg=true)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Summer%20research%20scheme%20Warwick-UCL&fontSize=30)<br />
 
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? <br />
 
