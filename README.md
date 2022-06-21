@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Summer%20research%20scheme%20Warwick-UCL&fontSize=30)<br />
 
-Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? <br />
+Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? Warwick and UCL's data science societies are announcing a collaboration for this summer's research scheme! <br />
 
- [Apply to WDSS Summer research scheme](.io/wdss-research-project.html) <br />
+ [Apply to Summer research scheme](.io/wdss-research-project.html) <br />
  
  ## Why take part?
  - Build valuable research project experience that you can use for future job/university application
