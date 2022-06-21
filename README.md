@@ -36,7 +36,7 @@ As one of WDSS's summer researchers, you will be immersed in either group or ind
 You can find here a list of the proposed projects, feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences. <br />
 
 ### 1) Hidden markov models
-A Markov chain is a model that tells us something about the probabilities of sequences of random variables, states, each of which can take on values from some set. These sets can be words, or tags, or symbols representing anything, like the weather. A Markov chain makes a very strong assumption that if we want to predict the future in the sequence, all that matters is the current state. The states before the current state have no impact on the future except via the current state. It’s as if to predict tomorrow’s weather you could examine today’s weather but you weren’t allowed to look at yesterday’s weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. For example we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. We call the tags hidden because they are not observed. A hidden Markov model (HMM) allows us to talk about both observed events Hidden Markov model (like words that we see in the input) and hidden events (like part-of-speech tags) that we think of as causal factors in our probabilistic model. <br />
+A Markov chain is a model that tells us something about the probabilities of sequences of random variables, states, each of which can take on values from some set. These sets can be words, or tags, or symbols representing anything, like the weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. For example we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. A hidden Markov model (HMM) allows us to talk about both observed events and hidden events. <br />
 
 Applications that can be explored lie in the field of Natural Language Processing, Financial Time Series.<br />
 
@@ -61,7 +61,7 @@ Here some preliminary literature
 - [Spatial methods and their applications to environmental and climate data](https://arxiv.org/pdf/1910.00006.pdf) 
 
 ### 3) Variational Inference
-Variational Inference is an approximate Bayesian inference method used to approximate the model posterior by a simpler distribution by casting the inference problem into an optimization one. The goal is to infer good values of the latent variables given observed data, hence the posterior distribution. A famous algorithm in Variational Inference is Variational AutoEncoder. <br />
+Variational Inference is an approximate Bayesian inference method used to approximate the model posterior by a simpler distribution by casting the inference problem into an optimization one. The goal is to infer good values of the latent variables given observed data, hence the posterior distribution. A famous algorithm is Variational AutoEncoder. <br />
 
 Applications that can be explored lie in causal inference: use latent-variable models (VAE) to discover hidden confounders (a variable that affect both the intervention and the outcome, hence producing a spurious correlation and masking the true cause of a phenomenon of interest) and infer how they affect treatment and outcome.<br />
 
@@ -82,7 +82,7 @@ Here some preliminary literature
 
 
 ### 5) Generative Adversarial Networks (GAN)
-Generative modelling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset. GANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated). The two models are trained together in a zero-sum game, adversarial, until the discriminator model is fooled about half the time, meaning the generator model is generating plausible examples. <br />
+Generative modelling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset. GANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated). <br />
 
 Application areas can lie in cryptography (e.g. finding the relationship between plain text and an encrypted code) or game theory.<br />
 
@@ -93,6 +93,7 @@ Here some preliminary literature
 
 ### 6) Artificial Neural Networks
 Artificial neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors. <br />
+
 Application areas can lie in prediction of solar radiation. The accurate prediction of solar radiation is therefore very important in both the solar industry and climate research. For example, forecasting the output power of solar systems is required for the good operation of the power grid or for the optimal management of the energy fluxes occurring into the solar system. <br />
 
 Here some preliminary literature
@@ -108,9 +109,7 @@ Here some preliminary literature
 - [Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy](https://www.sciencedirect.com/science/article/pii/S0957417420311970)
 
 ### 8) Computational biology/Autoencoders
-Finding new ways to repurpose or combine existing drugs has proved to be a powerful tool to treat complex diseases. Making predictions from this type of data is challenging because AI models need to learn how to generalise, or even extrapolate, interesting aspects of the structure of data — without relying on labelled training data — to make predictions about new conditions. Such high-dimensional data provides a strong test bed for machine learning (ML). <br />
-
-ML algorithms have significantly advanced drug discovery and have been used to develop various models for predicting chemical, biological and physical characteristics of compounds in drugs. ML algorithms can be incorporated in all steps of the process of drug discovery: to find a new use of drugs, to predict drug-protein interactions, optimise bioactivity of molecules, etc. <br />
+Finding new ways to repurpose or combine existing drugs has proved to be a powerful tool to treat complex diseases. Making predictions from this type of data is challenging because AI models need to learn how to generalise, or even extrapolate, interesting aspects of the structure of data — without relying on labelled training data — to make predictions about new conditions. <br />
 
 Here some preliminary literature
 - [Unlocking drug discovery through machine learning](https://towardsdatascience.com/unlocking-drug-discovery-through-machine-learning-part-1-8b2a64333e07)
@@ -118,14 +117,14 @@ Here some preliminary literature
 ### 9) Bayesian methods in sport statistics
 Bayesian methods are becoming increasingly popular in sports analytics. Identified advantages of the Bayesian approach include the ability to model complex problems, obtain probabilistic estimates and predictions that account for uncertainty, combine information sources and update learning as new data become available. The volume and variety of data produced in sports activities over recent years and the availability of software packages for Bayesian computation have contributed significantly to this growth. <br />
 
-Modern sports science is both characterized and challenged by the volume and variety of available data. Good examples of this are the basketball STATS SportVU tracking technology, the MLB baseball PITCHf/x and the golf ShotLink system. While traditional statistical analyses focused on points scored, averages and number of goals, recent advances in sports analytics consider more complex issues such as the interaction of the players in offensive and defensive actions.
-
 Here some preliminary literature
 - [A machine learning framework for sport result prediction](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
 - [The Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in Rugby](https://arxiv.org/abs/2110.00001)
 
 ### 10) Global Forecasting Models (GFM) with ML
-The paradigm in time series forecasting throughout decades has been to treat every time series as an independent dataset. As a result, traditional forecasting techniques are local, consider each time series separately and forecast it in isolation. However, nowadays, many companies are collecting large quantities of time series from similar sources routinely, such as sales in retail of thousands of different products, measurements for predictive maintenance across many machines, smart meter data across many households, etc. Application areas lie in the use of a set of series for forecasting, as opposed to just one series (Global Forecasting Models). The global model has the same set of parameters (e.g., the weights if the global model is a neural network) for all the series in contrast to a local model which has a different set of parameters for every individual series. <br />
+The paradigm in time series forecasting throughout decades has been to treat every time series as an independent dataset. As a result, traditional forecasting techniques are local, consider each time series separately and forecast it in isolation. However, nowadays, many companies are collecting large quantities of time series from similar sources routinely. <br />
+
+Application areas lie in the use of a set of series for forecasting, as opposed to just one series (Global Forecasting Models). The global model has the same set of parameters (e.g., the weights if the global model is a neural network) for all the series in contrast to a local model which has a different set of parameters for every individual series. <br />
 
 Here some preliminary literature
 - [Improving the accuracy of global forecasting models using time series data augmentation](https://reader.elsevier.com/reader/sd/pii/S0031320321003356?token=3BE4AD533632BE53F856909A6E77A7D4460ED5976C027FEAC9AB2DFE4AD4D292C1F4F0633C82831119A6753A63163DCC&originRegion=eu-west-1&originCreation=20220531081531)
