@@ -1,5 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Summer%20research%20scheme%20with%20WDSS&fontSize=40) <br />
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=footer&text=Summer%20research%20scheme%20Warwick-UCL%20WDSS&fontSize=30) <br />
+
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? <br />
 
  [Apply to WDSS Summer research scheme](.io/wdss-research-project.html) <br />
@@ -11,7 +11,26 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
  - Improve existing skills and extend your knowledge with regard to statistical models and machine learning
  - Work closely with experienced data scientists, graduates and PhD students
 
+## Target
+The scheme is open to any university student interested in getting their hands dirty with cleaning dataset, producing graphics, learning some statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies as data science skills are very valuable tools to master in many work areas. <br />
 
+The scheme is run by students for students, it intends to be an informal way to conduct  a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event with WDSS and the scheme's participants to chat about the projects, results, challenges and beer.
+
+## What to expect
+As one of WDSS's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
+
+- run virtually (some of us may be on campus and will be happy to meet you if you are around)
+- the projects are done in small teams, unless you wish otherwise. 
+- weekly meeting with a supervisor, it is a chance to seek guidance and suggestions, catch up with things, show your work and share your thoughts
+- produce a final report (with code to reproduce results) which will be published on the WDSS blog
+- there will be the possibility to present your work to YRM, an informal seminar that gathers young researchers in statistics (no professors involved). This would be entirely optional, but a good opportunity to develop presenting skills in a friendly environment and showcase your work.
+
+## Useful skills
+:computer: Some knowledge in one language among R, Python. <br />
+:books: Basic knowledge in linear regression, algebra, hypothesis testing, exponential distributions.
+
+## Application deadline & documents
+<mark>Please submit your CV and 150/200 words to state your motivation, programming skills. Don't forget to specify a preferred project and start date.</mark>
 
 ## Types of projects
 You can find here a list of the proposed projects, feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences. <br />
