@@ -5,25 +5,25 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
  [Apply to the Summer research scheme](https://recruitment.wdss.io/wdss-research-project.html) <br />
  
  ## Why take part?
- - Build valuable research project experience that you can use for future job/university applications
- - Boost your CV
- - Learn a new programming language like Python, R or Julia
- - Learn a new statistical model and machine learning algorithm
- - Work closely with experienced data scientists, graduates and PhD students
+:white_check_mark: Build valuable research project experience that you can use for future job/university applications <br />
+:white_check_mark: Boost your CV <br />
+:white_check_mark: Learn a new programming language like Python, R or Julia <br />
+:white_check_mark: Learn a new statistical model and machine learning algorithm <br />
+:white_check_mark: Work closely with experienced data scientists, graduates and PhD students
 
 ## Target
-The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! :vertical_traffic_light: Check out the level of comlexity of projects!  <br />
+The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! :vertical_traffic_light: Check out the level of complexity of projects!  <br />
 
-The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer.
+The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer :beer:
 
 ## What to expect
 As one of WDSS & UCLDSS's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
 
 - run virtually
-- the projects are done in small teams, unless you wish otherwise. 
+- the projects are done in small teams, unless you wish otherwise
 - weekly meetings with a supervisor: a chance to seek guidance and suggestions, catch up with things, show your work and share your thoughts
 - produce a final report (with code to reproduce results) which will be published on the WDSS blog
-- there will be the possibility to present your work to YRM, an informal seminar that gathers young researchers in statistics (no professors involved). This would be entirely optional, but a good opportunity to develop presenting skills in a friendly environment and showcase your work.
+- there will be the possibility to present your work to YRM :teacher:, an informal seminar that gathers young researchers in statistics (no professors involved). This would be entirely optional, but a good opportunity to develop presenting skills in a friendly environment and showcase your work.
 
 ## Useful skills
 :computer: Some knowledge in either R or Python. <br />
@@ -35,7 +35,7 @@ As one of WDSS & UCLDSS's summer researchers, you will be immersed in either gro
 ## Types of projects
 Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences! <br />
 
-### 1) Hidden Markov models
+### :red_circle: Hidden Markov models
 <img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/maxresdefault.jpg">
 
 A Markov chain is a stochastic model that describes a sequence of events (random variables) where the probability of each event depends only on the previous event's state. These random variables can take values from a variety of sets: words, tags, or symbols representing anything, like the weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. Eg, we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. A hidden Markov model (HMM) allows us to talk about both observed and hidden events. <br />
@@ -67,7 +67,7 @@ Preliminary literature:
 - [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7)
 - [Spatial methods and their applications to environmental and climate data](https://arxiv.org/pdf/1910.00006.pdf) 
 
-### 3) Text analysis of Tweets
+### :green_circle: Text analysis of Tweets
 <img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/trumpcloud.png">
 
 Text analysis is the process of using computer systems to read and understand text. Text can be in any shape and form - emails, tweets, social media comments, marketing copy, customer support tickets, survey responses. <br />
@@ -82,7 +82,7 @@ Preliminary literature:
 - [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
 - [Causal Effect Variational Autoencoder with Uniform Treatment](https://arxiv.org/pdf/2111.08656.pdf)
 
-### 4) ML with images
+### :yellow_circle: ML with images
 <img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/ThinkstockPhotos-513688464.jpg">
 
 There exist numerous ML/DL algorithms that deal with images as input variables and perform different tasks, from reconstruction to detection, classification, etc. <br />
