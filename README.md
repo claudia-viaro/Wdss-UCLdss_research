@@ -1,24 +1,23 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Summer%20research%20scheme%20Warwick-UCL&fontSize=30)<br />
 
-Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning data sets and producing insightful graphics? Warwick and UCL's data science societies are announcing a collaboration for this summer's research scheme! <br />
+Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning datasets and producing insightful graphics? Warwick and UCL's data science societies are announcing a collaboration for this summer's research scheme! <br />
 
  [Apply to Summer research scheme](.io/wdss-research-project.html) <br />
  
  ## Why take part?
- - Build valuable research project experience that you can use for future job/university application
+ - Build valuable research project experience that you can use for future job/university applications
  - Boost your CV
  - Learn a new programming language like Python, R or Julia
  - Improve existing skills and extend your knowledge with regard to statistical models and machine learning
  - Work closely with experienced data scientists, graduates and PhD students
 
 ## Target
-The scheme is open to any university student interested in getting their hands dirty with cleaning dataset, producing graphics, learning some statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are very valuable tools to master in many work areas. <br />
+The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! <br />
 
-The scheme is run by students for students, it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!)
- for the scheme's participants to chat about the projects, results and challenges with a glass of beer.
+The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer.
 
 ## What to expect
-As one of Wdss&UCLdss's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
+As one of WDSS & UCLDSS's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
 
 - run virtually
 - the projects are done in small teams, unless you wish otherwise. 
@@ -27,14 +26,14 @@ As one of Wdss&UCLdss's summer researchers, you will be immersed in either group
 - there will be the possibility to present your work to YRM, an informal seminar that gathers young researchers in statistics (no professors involved). This would be entirely optional, but a good opportunity to develop presenting skills in a friendly environment and showcase your work.
 
 ## Useful skills
-:computer: Some knowledge in one language among R, Python. <br />
+:computer: Some knowledge in either R or Python. <br />
 :books: Basic knowledge in linear regression, algebra, hypothesis testing, exponential distributions.
 
 ## Application deadline & documents
-<mark>Please submit your CV and 150/200 words to state your motivation, programming skills. Don't forget to specify a preferred project and start date.</mark>
+<mark>Please submit your CV and 150/200 words to state your motivation and outline your programming skills. Don't forget to specify a preferred project and start date.</mark>
 
 ## Types of projects
-Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences. <br />
+Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences! <br />
 
 ### 1) Hidden markov models
 A Markov chain is a stochastic model that describes a sequence of events (random variables) where the probability of each event depends only on the previous event's state. These random variables can take values from a variety of sets: words, tags, or symbols representing anything, like the weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. Eg, we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. A hidden Markov model (HMM) allows us to talk about both observed and hidden events. <br />
