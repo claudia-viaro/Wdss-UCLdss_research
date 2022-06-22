@@ -19,9 +19,9 @@ The scheme is run by students for students - it intends to be an informal way to
 ## What to expect
 As one of WDSS & UCLDSS's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
 
-- run virtually
+- run virtually 	:computer:
 - the projects are done in small teams, unless you wish otherwise
-- weekly meetings with a supervisor: a chance to seek guidance and suggestions, catch up with things, show your work and share your thoughts
+- weekly meetings with a supervisor :superhero: a chance to seek guidance and suggestions, catch up with things, show your work and share your thoughts
 - produce a final report (with code to reproduce results) which will be published on [Warwick](https://research.wdss.io/) and UCL blogs
 - there will be the possibility to present your work to YRM :teacher:, an informal seminar that gathers young researchers in statistics (no professors involved). This would be entirely optional, but a good opportunity to develop presenting skills in a friendly environment and showcase your work.
 
@@ -129,13 +129,17 @@ Preliminary literature:
 
 
 ### :red_circle: Generative Adversarial Networks (GAN)
-Generative modelling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset. GANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated). <br />
+<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/20713844._SX540_.jpg">
 
-Application areas can lie in cryptography (e.g. finding the relationship between plain text and an encrypted code) or game theory.<br />
+Generative modelling is an unsupervised learning task in machine learning that involves automatically discovering and learning the regularities or patterns in input data in such a way that the model can be used to generate or output new examples that plausibly could have been drawn from the original dataset. GANs are a clever way of training a generative model by framing the problem as a supervised learning problem with two sub-models: the generator model that we train to generate new examples, and the discriminator model that tries to classify examples as either real (from the domain) or fake (generated).
+<br />
+
+Application areas can lie in game theory.
+
+
+<br clear="left"/>
 
 Preliminary literature:
-- [Asymmetric cryptographic functions based on generative adversarial neural networks for Internet of Things](https://reader.elsevier.com/reader/sd/pii/S0167739X21001801?token=8C6900AD05D39D59018EF1A7D8FCA1B1852A97009571DF52F1B89CFB2985FFAB6FF8B886406210A9C7C56A6CBBA85D1F&originRegion=eu-west-1&originCreation=20220524223821)
-- [Neural Networks-based criptography: a survey](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9527229)
 - [Applications of game theory in deep learning: a survey](https://link.springer.com/article/10.1007/s11042-022-12153-2#:~:text=Game%20theory%20helps%20to%20model,involves%20a%20game%2Dtheoretic%20approach.)
 
 
