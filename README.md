@@ -76,9 +76,11 @@ Preliminary literature:
 - [Causal Effect Variational Autoencoder with Uniform Treatment](https://arxiv.org/pdf/2111.08656.pdf)
 
 ### 4) ML with images
+<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/ThinkstockPhotos-513688464.jpg">
+
 There exist numerous ML/DL algorithms that deal with images as input variables and perform different tasks, from reconstruction to detection, classification, etc. <br />
 
-Application areas can lie in the use of medical or satellite images. <br />
+Application areas can lie in the use of medical or satellite images. <br clear="left"/>
 
 Preliminary literature:
 - [A survey on deep learning in medical image reconstruction](https://www.sciencedirect.com/science/article/pii/S2667102621000061)
@@ -113,14 +115,13 @@ Areas of application can lie in algorithmic trading strategies. <br />
 Preliminary literature:
 - [Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy](https://www.sciencedirect.com/science/article/pii/S0957417420311970)
 
-### 8) Computational biology/Autoencoders
-Finding new ways to repurpose or combine existing drugs has proven to be a powerful tool to treat complex diseases. Making predictions from this type of data is challenging because AI models need to learn how to generalise, or even extrapolate, interesting aspects of the structure of the data — without relying on labelled training data — to make predictions about new conditions. <br />
-
-Preliminary literature:
-- [Unlocking drug discovery through machine learning](https://towardsdatascience.com/unlocking-drug-discovery-through-machine-learning-part-1-8b2a64333e07)
-
 ### 9) Bayesian methods in sport statistics
-Bayesian methods are becoming increasingly popular in sports analytics. Identified advantages of the Bayesian approach include the ability to model complex problems, obtain probabilistic estimates and predictions that account for uncertainty, combine information sources and update learning as new data become available. The volume and variety of data produced in sports activities over recent years and the availability of software packages for Bayesian computation have contributed significantly to this growth. <br />
+<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/sport_stats.jpg">
+
+Bayesian methods are becoming increasingly popular in sports analytics. Identified advantages of the Bayesian approach include the ability to model complex problems, obtain probabilistic estimates and predictions that account for uncertainty, combine information sources and update learning as new data become available. The volume and variety of data produced in sports activities over recent years and the availability of software packages for Bayesian computation have contributed significantly to this growth. <br clear="left"/>
+
+
+
 
 Preliminary literature:
 - [A machine learning framework for sport result prediction](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
