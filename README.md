@@ -8,11 +8,11 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
  - Build valuable research project experience that you can use for future job/university applications
  - Boost your CV
  - Learn a new programming language like Python, R or Julia
- - Improve existing skills and extend your knowledge with regard to statistical models and machine learning
+ - Learn a new statistical model and machine learning algorithm
  - Work closely with experienced data scientists, graduates and PhD students
 
 ## Target
-The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! <br />
+The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! Projects are ranked by a level of expertise :vertical_traffic_light: <br />
 
 The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer.
 
@@ -36,9 +36,16 @@ As one of WDSS & UCLDSS's summer researchers, you will be immersed in either gro
 Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences! <br />
 
 ### 1) Hidden Markov models
+<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/maxresdefault.jpg">
+
 A Markov chain is a stochastic model that describes a sequence of events (random variables) where the probability of each event depends only on the previous event's state. These random variables can take values from a variety of sets: words, tags, or symbols representing anything, like the weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. Eg, we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. A hidden Markov model (HMM) allows us to talk about both observed and hidden events. <br />
 
-Applications that can be explored lie in the field of Natural Language Processing and Financial Time Series.<br />
+Applications that can be explored lie in the field of Natural Language Processing and Financial Time Series.
+
+<br clear="left"/>
+
+
+
 
 Preliminary literature:
 - [A Guide to Hidden Markov Model and its Applications in NLP](https://analyticsindiamag.com/a-guide-to-hidden-markov-model-and-its-applications-in-nlp/)
