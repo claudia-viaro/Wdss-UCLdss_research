@@ -12,7 +12,7 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
  - Work closely with experienced data scientists, graduates and PhD students
 
 ## Target
-The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! Projects are ranked by a level of expertise :vertical_traffic_light: <br />
+The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. There are no strict requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas! :vertical_traffic_light: Check out the level of comlexity of projects!  <br />
 
 The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer.
 
