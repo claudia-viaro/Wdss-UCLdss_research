@@ -47,9 +47,9 @@ There are many tasks that can be performed: gaining insights into emotions, mood
 
 
 Useful links:
-- [tutorial slides](http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf)
-- [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
-- [Causal Effect Variational Autoencoder with Uniform Treatment](https://arxiv.org/pdf/2111.08656.pdf)
+- [Introduction to Sentiment Analysis Using Python NLTK Library](https://python.plainenglish.io/introduction-to-sentiment-analysis-using-python-nltk-library-f00c227ef56e)
+- [Video: Sentiment Analysis Using NLTK](https://www.youtube.com/watch?v=U8m5ug9Q54M)
+- [Text mining with R](https://www.tidytextmining.com/)
 
 ### :green_circle: Artificial Neural Networks
 
