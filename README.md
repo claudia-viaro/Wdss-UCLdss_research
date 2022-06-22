@@ -102,19 +102,21 @@ Preliminary literature:
 - [A machine learning framework for sport result prediction](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
 - [The Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in Rugby](https://arxiv.org/abs/2110.00001)
 
+### :yellow_circle: Reinforcement Learning
 
-### :yellow_circle: Artificial Neural Networks
-<img align="left" width="100" height="300" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/10639_2019_10053_Fig1_HTML.png">
+<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/iStock-1145882183.jpg
+">
 
-Artificial neural networks are forecasting methods that are based on simple mathematical models of the brain. They allow complex nonlinear relationships between the response variable and its predictors. <br />
+Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximise the notion of cumulative reward. <br />
 
-Application areas can lie in predicting solar radiation. The accurate prediction of solar radiation is crucial in both the solar industry and climate research. For example, forecasting the output power of solar systems is required for the good operation of the power grid or for the optimal management of the energy fluxes occurring into the solar system. 
+Areas of application can lie in algorithmic trading strategies. 
 
 <br clear="left"/>
 
+
 Preliminary literature:
-- [Solar Radiation Prediction Using Different Machine Learning Algorithms and Implications for Extreme Climate Events]( https://www.frontiersin.org/articles/10.3389/feart.2021.596860/full#:~:text=The%20R2%20values%20of,0.922%2C%20and%200.921%2C%20respectively.)
-- [Machine learning methods for solar radiation forecasting: A review](https://www.sciencedirect.com/science/article/pii/S0960148116311648)
+- [Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy](https://www.sciencedirect.com/science/article/pii/S0957417420311970)
+
 
 ### :red_circle: Hidden Markov models
 <img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/maxresdefault.jpg">
@@ -153,21 +155,5 @@ Preliminary literature:
 
 
 
-### 7) Reinforcement Learning
-Reinforcement learning (RL) is an area of machine learning concerned with how intelligent agents ought to take actions in an environment in order to maximise the notion of cumulative reward. <br />
-
-Areas of application can lie in algorithmic trading strategies. <br />
-
-Preliminary literature:
-- [Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy](https://www.sciencedirect.com/science/article/pii/S0957417420311970)
 
  
-### 10) Global Forecasting Models (GFM) with ML
-The paradigm in time series forecasting throughout decades has been to treat every time series as an independent dataset. As a result, traditional forecasting techniques are local, consider each time series separately and forecast it in isolation. However, nowadays, many companies are collecting large quantities of time series from similar sources routinely. <br />
-
-Application areas lie in the use of a set of series for forecasting, as opposed to just one series (Global Forecasting Models). The global model has the same set of parameters (eg, the weights if the global model is a neural network) for all series in contrast to a local model which has a different set of parameters for every individual series. <br />
-
-Preliminary literature:
-- [Improving the accuracy of global forecasting models using time series data augmentation](https://reader.elsevier.com/reader/sd/pii/S0031320321003356?token=3BE4AD533632BE53F856909A6E77A7D4460ED5976C027FEAC9AB2DFE4AD4D292C1F4F0633C82831119A6753A63163DCC&originRegion=eu-west-1&originCreation=20220531081531)
-- [Global models for time series forecasting: A Simulation study](https://reader.elsevier.com/reader/sd/pii/S0031320321006178?token=042DAB990D779601CABF61DA3F85BA6AC86505AF2EB6CF71787EEFB0CE772BC3C3B77A29B8CE09E7E60175CAC452E74F&originRegion=eu-west-1&originCreation=20220531092943)
-
