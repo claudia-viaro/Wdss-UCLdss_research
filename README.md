@@ -60,10 +60,8 @@ Preliminary literature:
 - [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7)
 - [Spatial methods and their applications to environmental and climate data](https://arxiv.org/pdf/1910.00006.pdf) 
 
-### 3) Variational Inference
-Variational Inference is an approximate Bayesian inference method used to approximate the model posterior by a simpler distribution by casting the inference problem into an optimization one. The goal is to infer good values of the latent variables given observed data, hence the posterior distribution. A famous algorithm is Variational AutoEncoder. <br />
-
-Applications that can be explored lie in causal inference: use latent-variable models (VAE) to discover hidden confounders (a variable that affect both the intervention and the outcome, hence producing a spurious correlation and masking the true cause of a phenomenon of interest) and infer how they affect treatment and outcome.<br />
+### 3) Text analysis of Tweets
+Text analysis is the process of using computer systems to read and understand text. Text can be in any shape and form - emails, tweets, social media comments, marketing copy, customer support tickets, survey responses. There are many tasks that can be performed: gaining insights into emotions, moods or opinions using sentiment analysis. For example, a favorable review often contains words like good, fast, and great. However, negative reviews might contain words like unhappy, slow, and bad. Or text extraction: to scan the text and pull out key information. It can identify keywords, product attributes, brand names, names of places, and more in a piece of text. For example, you can use text extraction to monitor brand mentions on social media. Manually tracking every occurrence of your brand on social media is impossible. Text extraction will alert you to mentions of your brand in real time. 
 
 Preliminary literature:
 - [tutorial slides](http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf)
