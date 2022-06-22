@@ -73,7 +73,7 @@ Preliminary literature:
 - [Deep Learning for Understanding Satellite Imagery: An Experimental Survey](https://www.frontiersin.org/articles/10.3389/frai.2020.534696/full)
 
 ### :yellow_circle: Spatial Statistics
-<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/FBL5ktjXIAUg1Zf.jfif">
+<img align="left" width="100" height="300" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/FBL5ktjXIAUg1Zf.jfif">
 
 The term spatial statistics refers to the application of statistical concepts and methods to data that have a spatial location attached to them, and in which this locational element is used as an important and necessary part of the analysis. <br />
 
