@@ -2,7 +2,7 @@
 
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning datasets and producing insightful graphics? Warwick and UCL's data science societies are announcing a collaboration for this summer's research scheme! <br />
 
- [Apply to Summer research scheme](.io/wdss-research-project.html) <br />
+ [Apply to the Summer research scheme](.io/wdss-research-project.html) <br />
  
  ## Why take part?
  - Build valuable research project experience that you can use for future job/university applications
@@ -35,7 +35,7 @@ As one of WDSS & UCLDSS's summer researchers, you will be immersed in either gro
 ## Types of projects
 Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences! <br />
 
-### 1) Hidden markov models
+### 1) Hidden Markov models
 A Markov chain is a stochastic model that describes a sequence of events (random variables) where the probability of each event depends only on the previous event's state. These random variables can take values from a variety of sets: words, tags, or symbols representing anything, like the weather. In many cases, however, the events we are interested in are hidden: we don’t observe them directly. Eg, we don’t normally observe part-of-speech tags in a text. Rather, we see words, and must infer the tags from the word sequence. A hidden Markov model (HMM) allows us to talk about both observed and hidden events. <br />
 
 Applications that can be explored lie in the field of Natural Language Processing and Financial Time Series.<br />
