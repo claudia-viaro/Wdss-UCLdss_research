@@ -45,7 +45,8 @@ There are many tasks that can be performed: gaining insights into emotions, mood
 <br clear="left"/>
 
 
-Preliminary literature:
+
+Useful links:
 - [tutorial slides](http://www.cs.columbia.edu/~blei/talks/Blei_VI_tutorial.pdf)
 - [Causal Effect Inference with Deep Latent-Variable Models](https://arxiv.org/pdf/1705.08821.pdf)
 - [Causal Effect Variational Autoencoder with Uniform Treatment](https://arxiv.org/pdf/2111.08656.pdf)
@@ -60,7 +61,8 @@ Application areas can lie in predicting solar radiation. The accurate prediction
 
 
 
-Preliminary literature:
+
+Useful links:
 - [Solar Radiation Prediction Using Different Machine Learning Algorithms and Implications for Extreme Climate Events]( https://www.frontiersin.org/articles/10.3389/feart.2021.596860/full#:~:text=The%20R2%20values%20of,0.922%2C%20and%200.921%2C%20respectively.)
 - [Machine learning methods for solar radiation forecasting: A review](https://www.sciencedirect.com/science/article/pii/S0960148116311648)
 
@@ -73,11 +75,11 @@ Its applications lie in exploring geographical determinants relevant for evaluat
 
 <br clear="left"/>
 
-Preliminary literature:
-- [Bayesian spatial models](https://atlas.cancer.org.au/developing-a-cancer-atlas/Chapter_4.html) https://cancerqld.blob.core.windows.net/content/docs/Investigation-of-Bayesian-spatial-models.pdf
+Useful links:
+- [An Introduction to Spatial Analysis and Mapping in R](https://bookdown.org/lexcomber/brunsdoncomber2e/)
+- [An Introduction to Spatial Data Analysis and Visualisation in R](https://www.spatialanalysisonline.com/An%20Introduction%20to%20Spatial%20Data%20Analysis%20in%20R.pdf) 
 - [Using spatial analysis and GIS to improve planning and resource allocation in a rural district of Bangladesh](https://gh.bmj.com/content/4/Suppl_5/e000832)
-- [A novel framework for spatio-temporal prediction of environmental data using deep learning](https://www.nature.com/articles/s41598-020-79148-7)
-- [Spatial methods and their applications to environmental and climate data](https://arxiv.org/pdf/1910.00006.pdf) 
+- [Video: Spatial Statistics in R: An Introductory Tutorial with Examples](https://www.youtube.com/watch?v=fvgLH5tMig8) 
 
 
 ### :yellow_circle: ML with images
@@ -87,7 +89,8 @@ There exist numerous ML/DL algorithms that deal with images as input variables a
 
 Application areas can lie in the use of medical or satellite images. <br clear="left"/>
 
-Preliminary literature:
+
+Useful links:
 - [A survey on deep learning in medical image reconstruction](https://www.sciencedirect.com/science/article/pii/S2667102621000061)
 - [Medical image analysis](https://reader.elsevier.com/reader/sd/pii/S1361841517301135?token=65E3BEE61428E422A69226CFDB84E60BAB0DA6A2549297DD26F7116DF4E794EAACCDF956E55AEBC38A513BCF70E5C3F6&originRegion=eu-west-1&originCreation=20220525073713)
 - [Deep Learning for Understanding Satellite Imagery: An Experimental Survey](https://www.frontiersin.org/articles/10.3389/frai.2020.534696/full)
@@ -99,8 +102,7 @@ Preliminary literature:
 
 Bayesian methods are becoming increasingly popular in sports analytics. Identified advantages of the Bayesian approach include the ability to model complex problems, obtain probabilistic estimates and predictions that account for uncertainty, combine information sources and update learning as new data become available. The volume and variety of data produced in sports activities over recent years and the availability of software packages for Bayesian computation have contributed significantly to this growth. <br clear="left"/>
 
-
-Preliminary literature:
+Useful links:
 - [A machine learning framework for sport result prediction](https://www.sciencedirect.com/science/article/pii/S2210832717301485)
 - [The Relative Importance of Ability, Luck and Motivation in Team Sports: a Bayesian Model of Performance in Rugby](https://arxiv.org/abs/2110.00001)
 
@@ -115,7 +117,7 @@ Areas of application can lie in algorithmic trading strategies.
 <br clear="left"/>
 
 
-Preliminary literature:
+Useful links:
 - [Deep reinforcement learning based trading agents: Risk curiosity driven learning for financial rules-based policy](https://www.sciencedirect.com/science/article/pii/S0957417420311970)
 
 
@@ -128,7 +130,8 @@ Applications that can be explored lie in the field of Natural Language Processin
 
 <br clear="left"/>
 
-Preliminary literature:
+
+Useful links:
 - [A Guide to Hidden Markov Model and its Applications in NLP](https://analyticsindiamag.com/a-guide-to-hidden-markov-model-and-its-applications-in-nlp/)
 - [Review on Usage of Hidden Markov Model in Natural Language Processing](https://link.springer.com/content/pdf/10.1007/978-981-15-5971-6.pdf)
 - [Statistical MArkovian data modelling for Natural Language Processing](https://aircconline.com/ijdkp/V7N1/7117ijdkp03.pdf)
@@ -151,7 +154,8 @@ Application areas can lie in game theory.
 
 <br clear="left"/>
 
-Preliminary literature:
+
+Useful links:
 - [Applications of game theory in deep learning: a survey](https://link.springer.com/article/10.1007/s11042-022-12153-2#:~:text=Game%20theory%20helps%20to%20model,involves%20a%20game%2Dtheoretic%20approach.)
 
 
