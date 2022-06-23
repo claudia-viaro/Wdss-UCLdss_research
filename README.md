@@ -15,7 +15,7 @@ Warwick and UCL's data science societies are announcing a collaboration for this
 
 
 
-:fire: **APPLY!!** :fire: You can send an email to :incoming_envelope: claudia.viaro@warwick.ac.uk with your CV OR :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9)  <br />
+:fire: **APPLY!!** :fire: You can send an email to :incoming_envelope: claudia dot viaro at warwick dot ac dot uk with your CV OR :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9)  <br />
 (It doesn't matter to which link you are applying)
  
  ## Why take part?
