@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Summer%20research%20scheme%20Warwick-UCL&fontSize=30)<br />
 
 
-Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning datasets and producing insightful graphics?
+Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning datasets and producing insightful graphics!
 
 
 <img align="left" width="50" height="50" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/241969890_692407318308954_4975213199854409045_n.png">
