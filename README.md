@@ -15,7 +15,7 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
 
 
 
-:fire: **APPLY!!** :incoming_envelope: recruitment@wdss.io :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9)  <br />
+:fire: **APPLY!!** :incoming_envelope: You can send an email to recruitment@wdss.io with your CV and inform us which project you are interested in :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9)  <br />
 (It doesn't matter to which link you are applying)
  
  ## Why take part?
