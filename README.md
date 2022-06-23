@@ -12,7 +12,11 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
 :white_check_mark: Work closely with experienced data scientists, graduates and PhD students
 
 ## Target
-The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. <mark style="background-color: #FFFF00">There are no requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas!</mark>  <br />  
+The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. 
+```python
+s = "There are no requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas!"
+print s
+``` <mark style="background-color: #FFFF00">There are no requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas!</mark>  <br />  
 
 :radioactive: **Check out the level of complexity of projects!** It goes by traffict light colors  <br />
 
