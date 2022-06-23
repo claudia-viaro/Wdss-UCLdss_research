@@ -69,6 +69,24 @@ Useful links:
 - [Video: Sentiment Analysis Using NLTK](https://www.youtube.com/watch?v=U8m5ug9Q54M)
 - [Text mining with R](https://www.tidytextmining.com/)
 
+### :green_circle: Top 10 Python libraries
+<img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/Untitled-design24.png">
+
+
+Python is the most widely used programming language today. And, as a library-based language, it is vital to gain familiarity with the most popular and requested libraries. This includes TensorFlow, NumPy, SciPy, Pandas, Matplotlib, Keras, SciKit-Learn, PyTorch, Scrapy, BeautifulSoup.
+
+
+<br clear="left"/>
+
+
+
+
+
+Useful links:
+- [Top 10 libraries for Python in 2022](https://www.simplilearn.com/top-python-libraries-for-data-science-article)
+
+
+
 ### :green_circle: Artificial Neural Networks
 
 <img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/10639_2019_10053_Fig1_HTML.png">
