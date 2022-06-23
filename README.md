@@ -15,8 +15,7 @@ Do you want to learn and apply ML algorithms to real data sets? Get your hands d
 
 
 
-
- [APPLY Warwick](recruitment@wdss.io) - [APPLY UCL](su-datascience@ucl.ac.uk)  <br />
+:fire: **APPLY!!** :incoming_envelope: recruitment@wdss.io :incoming_envelope: su-datascience@ucl.ac.uk  <br />
 (It doesn't matter to which link you are applying)
  
  ## Why take part?
