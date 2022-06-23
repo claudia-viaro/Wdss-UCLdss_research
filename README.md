@@ -32,7 +32,7 @@ The scheme is open to any university student interested in cleaning datasets, pr
 
 :radioactive: **Check out the level of complexity of projects!** It goes by traffict light colors :red_circle: :yellow_circle: :green_circle: <br />
 
-The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer :beer:
+The scheme is run by students for students - it intends to be an informal way to conduct a research experience that you may encounter for your dissertation or in other work experiences, it can turn out to be useful for your MSc or job application. We may plan a social event :woman_dancing: at Warwick or UCL (or both!) for the scheme's participants to chat about the projects, results and challenges with a glass of cold beer :beer:
 
 ## What to expect
 As one of WDSS & UCLDSS's summer researchers, you will be immersed in either group or independent work for one of the projects. We offer access to resources and support from experienced data scientists and subject ambassadors with specific domain epxertise. <br />
