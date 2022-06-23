@@ -2,7 +2,7 @@
 
 Do you want to learn and apply ML algorithms to real data sets? Get your hands dirty cleaning datasets and producing insightful graphics? Warwick and UCL's data science societies are announcing a collaboration for this summer's research scheme! <br />
 
- [APPLY Warwick](https://recruitment.wdss.io/wdss-research-project.html) - [APPLY UCL] <br />
+ [APPLY Warwick](https://recruitment.wdss.io/wdss-research-project.html) - [APPLY UCL] :soon: <br />
 (It doesn't matter to which link you are applying)
  
  ## Why take part?
