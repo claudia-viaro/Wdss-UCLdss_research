@@ -26,7 +26,7 @@ Warwick and UCL's data science societies are announcing a collaboration for this
 :white_check_mark: Work closely with experienced data scientists, graduates and PhD students
 
 ## Target
-The scheme is open to any university student interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. 
+The scheme is open to **any university student** interested in cleaning datasets, producing graphics, learning about statistical models, and applying ML algorithms to real datasets. 
 
 :white_flag: **There are no requirements as per subject of your studies - data science skills are valuable tools to master in plenty of work areas!** <br />
 
