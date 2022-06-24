@@ -49,9 +49,9 @@ As one of WDSS & UCLDSS's summer researchers, you will be immersed in either gro
 
 ## Application deadline & documents
 Please submit your CV and 150/200 words to state your motivation, your programming skills, preferred project(s). <br />
-**Deadline 1st July** <br />
-**Start date 8th July** <br />
-**Length max final date 30th September** (depending on the team preferences/constraints we can arrange an earlier terminal date)
+:pushpin: **Deadline 1st July** <br />
+:unlock: **Start date 8th July** <br />
+:end: **Length max final date 30th September** (depending on the team preferences/constraints we can arrange an earlier terminal date)
 
 ## Types of projects
 Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences! <br />
