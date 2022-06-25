@@ -15,8 +15,12 @@ Warwick and UCL's data science societies are announcing a collaboration for this
 
 
 
-:fire: **APPLY!!** :fire: You can send an email to :incoming_envelope: claudia.viaro@warwick.ac.uk with your CV OR :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9)  <br />
-(It doesn't matter to which link you are applying)
+:fire: **APPLY!!** :fire: You can send an email to :incoming_envelope: claudia.viaro@warwick.ac.uk with your CV OR :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9) (It doesn't matter to which link you are applying) <br />
+
+Please submit your CV and 150/200 words to state your motivation, your programming skills, preferred project(s), preferred start date (if different from stated). <br />
+:pushpin: **Deadline 4th July** <br />
+:unlock: **Start date 11th July** <br />
+:lock: **Length: max final date 30th September** (depending on the team preferences/constraints we can arrange an earlier terminal date)
  
  ## Why take part?
 :white_check_mark: Build valuable research project experience that you can use for future job/university applications <br />
@@ -46,12 +50,6 @@ As one of WDSS & UCLDSS's summer researchers, you will be immersed in either gro
 ## Useful skills
 :computer: Some knowledge in either R or Python. <br />
 :books: Basic knowledge in linear regression, algebra, hypothesis testing, exponential distributions.
-
-## Application deadline & documents
-Please submit your CV and 150/200 words to state your motivation, your programming skills, preferred project(s). <br />
-:pushpin: **Deadline 4th July** <br />
-:unlock: **Start date 11th July** <br />
-:lock: **Length max final date 30th September** (depending on the team preferences/constraints we can arrange an earlier terminal date)
 
 ## Types of projects
 Here you can find a list of the proposed projects. Feel free to suggest your own reseach question or get in touch to formulate one that suits your preferences! <br />
