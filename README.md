@@ -13,13 +13,6 @@ Warwick and UCL's data science societies are announcing a collaboration for this
 
 <br clear="left"/>
 
-
-
-:fire: **APPLY!!** :fire: You can send an email to :incoming_envelope: recruitment@wdss.io with your CV OR :incoming_envelope: [UCL Google form](https://forms.gle/VMMtuGaWBFN5KEsJ9) (It doesn't matter to which link you are applying) <br />
-
-Please submit your CV and 150/200 words to state your motivation, your programming skills, preferred project(s), preferred start date (if different from stated). <br />
-:pushpin: **Deadline 10th July** <br />
-:unlock: **Start date 11th July** <br />
 :lock: **Length: max final date 30th September** (depending on the team preferences/constraints we can arrange an earlier terminal date)
  
  ## Why take part?
