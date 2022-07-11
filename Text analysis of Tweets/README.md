@@ -1,4 +1,4 @@
-### :green_circle: Text analysis of Tweets
+### :green_circle: Text analysis 
 
 <img align="left" width="250" height="200" src="https://github.com/claudia-viaro/Wdss-UCLdss_research/blob/main/utils/trumpcloud.png">
 
