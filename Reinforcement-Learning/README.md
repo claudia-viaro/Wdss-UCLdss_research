@@ -21,7 +21,7 @@ Useful links:
 2. choose a template (preferably single column and original language English)
 3. share the file among the team members 
 4. If there's something you want to write and it doesn't work: google or ask 
-<br/ >
+
 Here's a [link](https://www.overleaf.com/articles/tagged/academic-journal/page/1) 
 
 **Code:** I suggest you collaborate on a single Google Colab file. 
