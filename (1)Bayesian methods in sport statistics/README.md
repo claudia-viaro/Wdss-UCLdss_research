@@ -13,10 +13,10 @@ Useful links:
 1. Create an account
 2. choose a template (preferably single column and original language English)
 3. share the file among the team members 
-4. If there's something you want to write and it doesn't work: google or ask <br/ >
+4. If there's something you want to write and it doesn't work: google or ask 
 Here's a [link](https://www.overleaf.com/articles/tagged/academic-journal/page/1) 
 
 **Code:** I suggest you collaborate on a single Google Colab file. 
 1. go on your google account and create a colab file
-1. share the file among the team members <br/ >
+2. share the file among the team members 
 Here's a [link]([https://www.overleaf.com/articles/tagged/academic-journal/page/1](https://colab.research.google.com/?utm_source=scs-index)) 
