@@ -27,3 +27,6 @@
 
 ## Online resources
 - [Understanding your elite sports data with Bayesian modeling](https://www.linkedin.com/pulse/understanding-your-elite-sports-data-bayesian-ric-porteous/)
+
+## Bayesian stats
+- [The Basics of Bayesian Statistics](https://github.com/jbrea/MLCourse)
