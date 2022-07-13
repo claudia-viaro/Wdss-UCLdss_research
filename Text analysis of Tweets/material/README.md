@@ -8,6 +8,10 @@
 ## Online resources
 - [Uncle Steve's Big List of Text Analytics and NLP Resources](https://github.com/stepthom/text_mining_resources): huge list of resources
 - University course with github content at Vrije University: [Python for text analysis](https://github.com/cltl/python-for-text-analysis)
+- [Sentiment Analysis using Python](https://techvidvan.com/tutorials/python-sentiment-analysis/)
+- [Getting started with text analysis in Python](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7)
+- [Text analytics for online hate speech monitoring and protection](https://www.unhcr.org/innovation/text-analytics-for-online-hate-speech-monitoring-and-protection/)
+- [Visualizing the speeches given by world leaders at UNGA](https://towardsdatascience.com/visualizing-the-speeches-of-world-leaders-at-unga-d7319e00e180)
 
 
 ## How to access papers/textbooks
