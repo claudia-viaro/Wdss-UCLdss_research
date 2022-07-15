@@ -38,7 +38,7 @@
 
 ## Bayesian models, some options
 
-- Bayesian hierarchical models: [Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball](https://arxiv.org/abs/1401.0942); [Streaky Hitting in Baseball](https://www.stat.berkeley.edu/~aldous/157/Papers/albert_streaky.pdf)
+- Bayesian hierarchical models: [Factorized Point Process Intensities: A Spatial Analysis of Professional Basketball](https://arxiv.org/abs/1401.0942); [Streaky Hitting in Baseball](https://www.stat.berkeley.edu/~aldous/157/Papers/albert_streaky.pdf); [a video Football Analytics Using Hierarchical Bayesian Models](https://www.youtube.com/watch?v=PPQ7RykrYK8); [video Tech talk: A practical introduction to Bayesian hierarchical modelling](https://www.youtube.com/watch?v=38yOWMMCeMk); [Hierarchical Bayes and Stan tutorial](https://medium.com/@nikhil_garg/hierarchical-bayes-and-stan-tutorial-example-7df7d4d5193); [Bayesian Hierarchical Modeling in PyMC3](https://towardsdatascience.com/bayesian-hierarchical-modeling-in-pymc3-d113c97f5149)
 - Bayesian regression: [On the Ranking of Test Match Batsmen](https://arxiv.org/abs/1806.05496)
 - spatial and spatio-temporal analysis: [Advanced Putting Metrics in Golf](https://www.sfu.ca/~tswartz/papers/putting.pdf)
 - Hidden Markov Models: [Characterizing the Spatial Structure of Defensive Skill in Professional Basketball](https://arxiv.org/pdf/1405.0231.pdf)
