@@ -7,3 +7,4 @@
 - [Sport statistics](https://sports-statistics.com/sports-data/sports-data-sets-for-data-modeling-visualization-predictions-machine-learning/)
 - [Datasets and statistics for Sports Management](https://utopia.ut.edu/c.php?g=887297&p=6377997)
 - [Football data](https://datahub.io/collections/football)
+- [ATP tour tennis](https://datahub.io/sports-data/atp-world-tour-tennis-data) or [ATP tour tennis](https://github.com/JeffSackmann/tennis_atp)
