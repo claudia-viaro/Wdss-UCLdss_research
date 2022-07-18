@@ -14,6 +14,7 @@
 - [A State-Space Model for National Football League Scores](https://www.jstor.org/stable/2669599)
 - [A simple Bayesian procedure for forecasting the outcomes of the UEFA Champions League matches](https://arxiv.org/ftp/arxiv/papers/1501/1501.05831.pdf)
 - [A Bayesian Approach to In-Game Win Probability in Soccer](https://dl.acm.org/doi/abs/10.1145/3447548.3467194?casa_token=ST0B_-86gWAAAAAA:KG7kSPv0HW4OsMaFc7KlADxcnYkqADRb8LCn1OARMY9657N1l-Wrw0DyFchCuWu0CBFZEk6dHN5p)
+- [An analytics approach to the FIFA ranking procedure and the World Cup final draw](https://link.springer.com/article/10.1007/s10479-019-03261-8)
 
 ## Papers on tennis
 - [A point-based Bayesian hierarchical model to predict the outcome of tennis matches](https://www.degruyter.com/document/doi/10.1515/jqas-2018-0008/html?casa_token=dvyp1t--mwoAAAAA:Huf-X0Wlzv1lI_3vVp-vRI_SbvoFXLWfhaFGuxHcqUgYaEv5pp9DuyO0Ff0I2-1_P-RzyYOpuw)
