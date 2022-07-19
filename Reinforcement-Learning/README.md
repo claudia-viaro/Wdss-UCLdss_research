@@ -28,4 +28,4 @@ Here's a [link](https://www.overleaf.com/articles/tagged/academic-journal/page/1
 1. go on your google account and create a colab file
 1. share the file among the team members 
 
-Here's a [link]((https://colab.research.google.com/?utm_source=scs-index)) 
+Here's a [link](https://colab.research.google.com/?utm_source=scs-index) 
