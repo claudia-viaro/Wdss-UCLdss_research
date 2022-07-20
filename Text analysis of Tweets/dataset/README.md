@@ -5,4 +5,6 @@
 - [News sentiment development on the example of “Migration”](https://github.com/text-analytics-20/news-sentiment-development)
 - [Twitter tennis](https://github.com/ferencberes/twittertennis)
 
+# General sources of datasets
 
+- [OpenML](https://www.openml.org/search?type=data&sort=runs&status=active)
