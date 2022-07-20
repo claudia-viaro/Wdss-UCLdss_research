@@ -12,3 +12,6 @@
 - [Twitter tennis, maybe an extension](https://github.com/ferencberes/twittertennis)
 - [Roland Garros and US Open Tennis](https://neo4j.com/developer-blog/analyzing-roland-garros-and-us-open-tennis-tournaments-via-neo4j/?utm_source=GPPC&utm_campaign=*NA%20-%20Search%20-%20Tier%200&utm_content=187497217113&utm_term=neo4j&gclid=EAIaIQobChMIkOvI6PXh2AIVgrfACh2NSQGfEAAYASAAEgJYx_D_BwE)
 
+# General sources of datasets
+
+- [OpenML](https://www.openml.org/search?type=data&sort=runs&status=active)
