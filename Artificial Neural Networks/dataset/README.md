@@ -4,3 +4,6 @@
 - [CAMS Radiation Service](https://www.soda-pro.com/web-services/radiation/cams-radiation-service)
 - [Atmospheric Science Data](https://asdc.larc.nasa.gov/)
 
+# General sources of datasets
+
+- [OpenML](https://www.openml.org/search?type=data&sort=runs&status=active)
