@@ -47,10 +47,11 @@
 ## Reviews
 - [Bayesian statistics meets sports: a comprehensive review](https://www.degruyter.com/document/doi/10.1515/jqas-2018-0106/html?lang=en#j_jqas-2018-0106_ref_126_w2aab3b7d330b1b6b1ab2b2d126Aa)
 
-## Online resources
+## Online resources with code
 - [Understanding your elite sports data with Bayesian modeling](https://www.linkedin.com/pulse/understanding-your-elite-sports-data-bayesian-ric-porteous/)
 - [Using R to study tennis players](https://www.msperlin.com/blog/post/2017-02-13-r-and-tennis-players/)
 - [Modeling Measurement and Count Data](https://bayesball.github.io/BOOK/mean.html#Normal:Discrete)
+- [Hands On Bayesian Statistics with Python, PyMC3 & ArviZ](https://towardsdatascience.com/hands-on-bayesian-statistics-with-python-pymc3-arviz-499db9a59501)
 
 ## Bayesian stats
 - [The Basics of Bayesian Statistics](https://github.com/jbrea/MLCourse)
