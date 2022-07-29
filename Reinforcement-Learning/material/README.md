@@ -1,8 +1,28 @@
 # RL in general
-- [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/)
 
-# Basic of Algo trading
-- [long vide](https://www.youtube.com/watch?v=xfzGZB4HhEE)
+**General library** <br />
+- [Spinning Up in Deep RL](https://spinningup.openai.com/en/latest/). sort of a plug and play
+
+**OpenAI Gym**
+- [video on gym env](OpenAI Gym: How to Observe the Environment)
+- [video on: OpenAI Gym: Rewards and Goals](https://www.youtube.com/watch?v=AKVaX1ExwJ8)
+- [Getting Started With OpenAI Gym: The Basic Building Blocks](https://blog.paperspace.com/getting-started-with-openai-gym/)
+
+
+**Algorithms explained**
+- [Reinforcement Q-Learning from Scratch in Python with OpenAI Gym](https://www.learndatasci.com/tutorials/reinforcement-q-learning-scratch-python-openai-gym/)
+- [Open AIGym|Simple SARSA and Q-Learning Reinforcement Learning Implementations](https://ikvibhav.medium.com/open-aigym-simple-sarsa-and-q-learning-reinforcement-learning-implementations-7d5ea6f1ff9)
+- [Reinforcement Learning algorithms SARSA, Q-Learning, DQN, for classical environments](https://github.com/srnand/Reinforcement-Learning-using-OpenAI-Gym) just look at the classicla environments, not MuJoCo
+- [SARSA algorithm](http://datamachines.xyz/2021/12/17/hands-on-reinforcement-learning-course-part-3-sarsa/)
+
+
+# Trading in general
+
+**Books**
+- [Good basics of stats and bits of finance](https://www.routledge.com/A-Course-on-Statistics-for-Finance/Sclove/p/book/9780367576608)
+
+**Basic of Algo trading**
+- [long video](https://www.youtube.com/watch?v=xfzGZB4HhEE)
 - [An Optimization Algorithm for Sparse Mean-Reverting Portfolio Selection](https://towardsdatascience.com/an-optimization-algorithm-for-sparse-mean-reverting-portfolio-selection-4b991bae037)
 
 # Algo trading in RL
@@ -31,6 +51,5 @@
 
 
 **Books**
-- [Good basics of stats and bits of finance](https://www.routledge.com/A-Course-on-Statistics-for-Finance/Sclove/p/book/9780367576608)
 - [Machine Learning for Algorithmic Trading: Predictive models to extract signals from market and alternative data for systematic trading strategies with Python, 2nd Edition](https://www.amazon.com/Machine-Learning-Algorithmic-Trading-alternative/dp/1839217715?pf_rd_r=GZH2XZ35GB3BET09PCCA&pf_rd_p=c5b6893a-24f2-4a59-9d4b-aff5065c90ec&pd_rd_r=91a679c7-f069-4a6e-bdbb-a2b3f548f0c8&pd_rd_w=2B0Q0&pd_rd_wg=GMY5S&ref_=pd_gw_ci_mcx_mr_hp_d) with [github content](https://github.com/stefan-jansen/machine-learning-for-trading). There is one chapter about RL
 
