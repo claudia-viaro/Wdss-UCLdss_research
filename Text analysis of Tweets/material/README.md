@@ -26,6 +26,7 @@ You can access papers by using your university credentials on the journal webpag
 
 ## Code examples
 - [UNGDC](https://github.com/nicolasdz/UNGDC)
+- [NLP Project - UN General Debates](https://www.kaggle.com/code/lillyraud/nlp-project-un-general-debates/notebook)
 
 ## Online resources
 - [Visualizing the speeches given by world leaders at UNGA](https://towardsdatascience.com/visualizing-the-speeches-of-world-leaders-at-unga-d7319e00e180)
