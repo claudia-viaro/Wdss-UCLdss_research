@@ -11,14 +11,22 @@
 - [Sentiment Analysis using Python](https://techvidvan.com/tutorials/python-sentiment-analysis/)
 - [Getting started with text analysis in Python](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7)
 - [Text analytics for online hate speech monitoring and protection](https://www.unhcr.org/innovation/text-analytics-for-online-hate-speech-monitoring-and-protection/)
-- [Visualizing the speeches given by world leaders at UNGA](https://towardsdatascience.com/visualizing-the-speeches-of-world-leaders-at-unga-d7319e00e180)
+
 
 
 ## How to access papers/textbooks
 You can access papers by using your university credentials on the journal webpage. You can access textbook by searching the title in your university library online reporitory, if you cn't let me know and we'll find a way.
 
-## Papers that use UN general debate speeches
+# about the UN general debate speeches dataset
+
+## Papers 
 - [What drives the international development agenda? An NLP analysis of the united nations general debate 1970–2016](https://ieeexplore.ieee.org/abstract/document/8253221)
 - [Understanding state preferences with text as data: Introducing the UN General Debate corpus](https://journals.sagepub.com/doi/full/10.1177/2053168017712821)
 - [Detecting policy preferences and dynamics in the UN general debate with neural word embeddings](https://ieeexplore.ieee.org/abstract/document/8253197)
 
+## Code examples
+- [UNGDC](https://github.com/nicolasdz/UNGDC)
+
+## Online resources
+- [Visualizing the speeches given by world leaders at UNGA](https://towardsdatascience.com/visualizing-the-speeches-of-world-leaders-at-unga-d7319e00e180)
+- [NLP Analysis of 50 Years of United Nations General Debate Speeches](https://medium.com/@anushkocharyan/nlp-analysis-of-50-years-of-united-nations-general-debate-speeches-61dc3bed3c11)
