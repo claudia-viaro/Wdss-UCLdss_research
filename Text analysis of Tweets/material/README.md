@@ -16,3 +16,9 @@
 
 ## How to access papers/textbooks
 You can access papers by using your university credentials on the journal webpage. You can access textbook by searching the title in your university library online reporitory, if you cn't let me know and we'll find a way.
+
+## Papers that use UN general debate speeches
+- [What drives the international development agenda? An NLP analysis of the united nations general debate 1970–2016](https://ieeexplore.ieee.org/abstract/document/8253221)
+- [Understanding state preferences with text as data: Introducing the UN General Debate corpus](https://journals.sagepub.com/doi/full/10.1177/2053168017712821)
+- [Detecting policy preferences and dynamics in the UN general debate with neural word embeddings](https://ieeexplore.ieee.org/abstract/document/8253197)
+
