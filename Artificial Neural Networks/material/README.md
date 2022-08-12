@@ -14,9 +14,11 @@
 - [An Introductory Review of Deep Learning for Prediction Models With Big Data](https://www.frontiersin.org/articles/10.3389/frai.2020.00004/full)
 
 ## ANN and solar radiation prediction
-. [Using the artificial neural networks for prediction and validating solar radiation](https://joems.springeropen.com/articles/10.1186/s42787-019-0043-8)
+- [Using the artificial neural networks for prediction and validating solar radiation](https://joems.springeropen.com/articles/10.1186/s42787-019-0043-8)
 - [Modelling of solar energy potential in Nigeria using an artificial neural network model](https://www.sciencedirect.com/science/article/abs/pii/S0306261908003231)
 - [Prediction of hourly and daily diffuse fraction using neural network, as compared to linear regression models](https://www.sciencedirect.com/science/article/abs/pii/S0360544206002969)
+- [Satellite image analysis and a hybrid ESSS/ANN model to forecast solar
+irradiance in the tropics](https://reader.elsevier.com/reader/sd/pii/S0196890413007644?token=594568B6DDD6EEAC047C6F616BEAFDC518B3953097073E68D6C9B0810DC95AD08EF37635060532EAB5F306AA75F72C16&originRegion=eu-west-1&originCreation=20220812200823)
 
 
 
