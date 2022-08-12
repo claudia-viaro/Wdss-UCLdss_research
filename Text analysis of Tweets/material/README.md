@@ -11,6 +11,10 @@
 - [Sentiment Analysis using Python](https://techvidvan.com/tutorials/python-sentiment-analysis/)
 - [Getting started with text analysis in Python](https://towardsdatascience.com/getting-started-with-text-analysis-in-python-ca13590eb4f7)
 - [Text analytics for online hate speech monitoring and protection](https://www.unhcr.org/innovation/text-analytics-for-online-hate-speech-monitoring-and-protection/)
+- [Sentiment analysis](https://pub.towardsai.net/sentiment-analysis-opinion-mining-with-python-nlp-tutorial-d1f173ca4e3c#a5cb)
+- [Sentiment Analysis: First Steps With Python's NLTK Library](https://realpython.com/python-nltk-sentiment-analysis/)
+- [Sentiment Analysis Using Bag-of-Words, Deep Learning: Sentiment Analysis](https://alvinntnu.github.io/NTNU_ENC2045_LECTURES/nlp/ml-sklearn-classification.html)
+- [ENC2045 Computational Linguistics](https://alvinntnu.github.io/NTNU_ENC2045_LECTURES/intro.html)
 
 
 
